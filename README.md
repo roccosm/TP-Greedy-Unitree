@@ -26,11 +26,11 @@ Desarrollar un algoritmo Greedy en Python para planificar rutas de un robot Unit
 
 Se evaluó el comportamiento del algoritmo en tres escenarios:
 
-| Mapa | Resultado | Movimientos |
-|---|---|---:|
-| Mapa 1 | Ruta óptima | 8 |
-| Mapa 2 | Ruta subóptima | 20 |
-| Mapa 3 | Bloqueo | 12 |
+|  Mapa  |    Resultado   | Movimientos |
+|--------|----------------|-------------|
+| Mapa 1 | Ruta óptima    |     8       |
+| Mapa 2 | Ruta subóptima |     20      |
+| Mapa 3 | Bloqueo        |     12      |
 
 Las pruebas permitieron analizar las ventajas y limitaciones de la estrategia Greedy, demostrando que las decisiones localmente óptimas no siempre garantizan una solución global óptima.
 
